@@ -1,7 +1,7 @@
 class Studylib < Formula
   desc "C++ library StudyLib (Apache 2.0)"
   homepage "https://github.com/SabirDzh/StudyLib"
-  url https://github.com/SabirDzh/StudyLib/archive/refs/tags/v1.0.0.tar.gz
+  url "https://github.com/SabirDzh/StudyLib/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "64d25c906881138e034e6fdbb1ec5200f454316ff9a23b410840e2ac7867165d"
   license "Apache-2.0"
 
